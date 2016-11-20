@@ -7,6 +7,7 @@ namespace ConsoleApplication2
         public static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD");
+            Console.Write("PWND");
         }
     }
 }
