@@ -8,6 +8,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("HELLO WORLD");
             Console.Write("PWND");
+            Console.Write("I am happy");
         }
     }
 }
